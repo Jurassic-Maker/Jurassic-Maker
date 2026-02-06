@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Jurassic-Maker
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on getting CompTIA A+ Certificates 
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me ...
+- 📫 How to reach me zachpc008@gmail.com
 I am currently working on several project including AIs, Games, Apps, Automation, Building a computer, etc...
+
+If you would like to collaborate with a project please email me the idea.
 
 <!---
 Jurassic-Maker/Jurassic-Maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
